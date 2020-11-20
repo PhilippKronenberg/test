@@ -16,8 +16,4 @@ tsdt <- dt_l[
        value = obsValue)
 ]
 
-
-
-
-
 fwrite(tsdt, file="unemployment_rate_ch.csv")
